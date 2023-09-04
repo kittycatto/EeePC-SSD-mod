@@ -1,8 +1,7 @@
 # HOW TO: EeePC 701 M.2 SSD mod
 WIP !!!
 
-Table of contents
-=================
+## Table of contents
 
 - [1. Disclaimer](#)
 - [2. I NEED YOUR HELP!](#)
