@@ -72,7 +72,6 @@ In case if everything is worked out just fine you should have SATA Menu in advan
 
 ### SSD is not visible in BIOS
 
-There are few reasons i encountered myself:
 - __Mixing up SATA wires__ - causing laptop to freeze a bit (maybe?) and there is no ssd in BIOS.
 - __No 3V are supplied to SSD__ - why? many reasons, check the wiring again.
 
