@@ -41,7 +41,7 @@ There is collection of stuff you need to do this mod properly.
 ### Software needed
 
 - __AFUDOS__ - BIOS flashing utility, get the image on release page, and just DD the image on flash drive. NOT THE ONLY WAY TO FLASH BIOS! <!-- TODO: more ways to flash -->
-- __BIOS__ - I used [ASUS 701 With BIOS 900 ^_^](https://archive.org/details/bios_20230906), it is modded 900 BIOS to properly work on 701, was dumped from some EeePC user's laptop, and from what i know it is from a dead EeePC forum.
+- __BIOS__ - I used [ASUS 701 With BIOS 900 ^_^](https://archive.org/details/bios_20230906), it is modded 900 BIOS to properly work on 701, was dumped from [some EeePC user](https://github.com/ninekeem)'s laptop, and from what i know it is from a dead EeePC forum.
 
 ## SSD Installation
 <!-- TODO: installation proccess -->
