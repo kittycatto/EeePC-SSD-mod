@@ -45,7 +45,20 @@ There is collection of stuff you need to do this mod properly.
 
 ## SSD Installation
 <!-- TODO: installation proccess -->
-...
+### Converter modding
+Actually this part is highly optional, consider it as ideas, there is hundreeds ways to do it.
+
+![Converter modding](images/converter-modding.png "Converter modding")
+
+ - Desolder SATA connector. you might chop the legs one by one, and then remove the remains with soldering iron
+ - Cut the board. with cutting converter will fit the eee's compartment perfectly, so you could change ssd when you need to.
+ - Desolder U1. It will give us access to positive terminal for powering ssd up
+
+
+
+Aaand... we got this.
+
+![Converter modding](images/converter-photo.png "Converter modding")
 
 ...
 
